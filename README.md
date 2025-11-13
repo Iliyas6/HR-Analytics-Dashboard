@@ -60,8 +60,8 @@ Attendance-Analytics-Dashboard/
 ## 🧾 Author
 **Mohammed Iliyas**  
 Data Analyst | Power BI Enthusiast  
-📧 [Add your email]  
-🔗 [LinkedIn Profile or Portfolio Link]
+📧 dokanwaleiliyas@gmail.com
+🔗 www.linkedin.com/in/mohammediliyas
 
 ---
 
