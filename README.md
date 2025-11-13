@@ -54,6 +54,7 @@ Attendance-Analytics-Dashboard/
 
 ## 📈 Dashboard Preview
 *(Add a screenshot of your Power BI dashboard here)*
+<img width="1367" height="760" alt="dashboard_SC" src="https://github.com/user-attachments/assets/9bfd4724-51f7-4a7b-b7da-2317242b44b1" />
 
 ---
 
